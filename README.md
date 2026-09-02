@@ -1,48 +1,42 @@
-# sleepless
+<div align="center">
 
-Hey there! 👋
-Welcome to my GitHub profile. I'm a Full-Stack Developer specializing in Lua and Python development. I'm committed to building excellent applications, contributing to meaningful projects, and continuously expanding my technical expertise.
+# [sanity](https://github.com/findfame)
 
-🚀 About Me
-I am a full-stack developer with deep expertise in Lua and Python. I focus on designing scalable systems, writing clean and maintainable code, and collaborating effectively with teams. My work spans backend services, scripting solutions, and comprehensive full-stack applications. I am dedicated to delivering high-quality solutions and staying current with industry best practices.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&height=40&duration=2000&lines=Taking+freelance+clients;Open+to+freelance+opportunities)](https://git.io/typing-svg)
 
-💻 Tech Stack
-Languages: Lua, Python, JavaScript
-Specialties: Full-Stack Development, Scripting, API Development, System Architecture
-Frontend: JavaScript, HTML/CSS, Responsive Design
-Backend: Python, Lua,
-Tools & Platforms:, VS Code
-🎯 Current Focus
-🔥 Advancing Lua Expertise – Exploring advanced Lua patterns, frameworks, and performance optimization
-💻 Architecting full-stack applications with Python and Lua
-🤝 Contributing to impactful open-source initiatives
-📚 Implementing industry best practices and design patterns
-💡 Developing innovative solutions to complex technical challenges
-📊 GitHub Statistics
-GitHub Stats
 
-Top Languages
+<img src="https://img.shields.io/github/followers/1337party?label=followers&style=flat&color=blue" />
+<img src="https://img.shields.io/github/stars/1337party?label=stars&style=flat&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=1337party&label=profile+views&color=blue&style=flat" />
 
-🏆 Featured Projects
-seikobot – A comprehensive python discord bot with excellent performance
-🌱 Professional Development
-🚀 Advanced Lua programming techniques and optimization
-🏗️ Enterprise-grade full-stack architecture patterns
-🔧 Performance optimization and scalability strategies
-📈 Distributed systems and microservices design
-🤝 Community & Collaboration
-I'm actively engaged in the developer community and welcome opportunities to collaborate:
+</div>
 
-Seikobot Server – Join our Discord community
-Auralink Community – Connect with us
-📫 Connect With Me
-I'm always open to discussing technology, collaborating on projects, or exploring new opportunities:
+---
 
-💼 GitHub: @okbyeml
-🎮 Seikobot Discord: https://discord.gg/cGktdy9tX8
-🌐 Auralink: https://discord.gg/BUrejma7e5
-📧 Open to professional inquiries and collaborations
-📚 Additional Resources
-For more information about my work and the communities I'm part of, please refer to the project repositories and community servers linked above.
+## About Me
 
-Last updated: July 2026
+Game developer specializing in Roblox remakes
+
+- Developer with hands-on project experience
+- Focused on clean, performant code
+- Always working on something new
+- Business inquiries → DM
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Luau](https://img.shields.io/badge/LUAU-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+</div>
+
+---
+
+## Contact
+
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1515939764157681764)
